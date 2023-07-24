@@ -1,0 +1,761 @@
+_id;url;name;isVerified;repositories;membersWithRole
+645895ff247be4eb244cd6cf;https://github.com/mewna;Mewna;True;18;1
+645895ff247be4eb244cd6d0;https://github.com/bots-gg;bots.gg;False;3;14
+645895ff247be4eb244cd6d1;https://github.com/massdriver-cloud;Massdriver, Inc.;False;97;1
+6458970db3945a21b64b9d00;https://github.com/resque;Resque;False;9;17
+6458970db3945a21b64b9d02;https://github.com/pedestal;Pedestal;False;7;14
+6458970db3945a21b64b9d03;https://github.com/spreadshirt;Spreadshirt;False;40;2
+6458970db3945a21b64b9d04;https://github.com/codegirls;codegirls;False;13;3
+6458970db3945a21b64b9d05;https://github.com/pixie-lang;pixie-lang;False;6;3
+6458970db3945a21b64b9d06;https://github.com/heartheartheart;The <3<3<3 collective;False;2;3
+6458970eb3945a21b64b9d09;https://github.com/partkeepr;PartKeepr;True;27;3
+6458970eb3945a21b64b9d0b;https://github.com/codekuma;Code Kuma;False;2;3
+6458970eb3945a21b64b9d0c;https://github.com/mdx-js;mdx-js;True;13;15
+6458970eb3945a21b64b9d0e;https://github.com/haskell-paris;haskell-paris;False;4;2
+6458970eb3945a21b64b9d11;https://github.com/uwa;The University of Western Australia;False;0;1
+6458970eb3945a21b64b9d13;https://github.com/SoutHACKton;SoutHACKton;False;4;10
+6458970eb3945a21b64b9d14;https://github.com/IBM;International Business Machines;True;2854;2854
+6458970eb3945a21b64b9d15;https://github.com/somakeit;So Make It;False;51;7
+6458970eb3945a21b64b9d1a;https://github.com/lapoissonnerie;La poissonnerie;False;0;2
+6458970eb3945a21b64b9d1b;https://github.com/Day-One-Engagement-Competences;Day One;False;0;1
+6458970eb3945a21b64b9d1e;https://github.com/themanaworld;The Mana World;True;26;10
+6458970eb3945a21b64b9d20;https://github.com/dogbin;dogbin;False;7;1
+6458970eb3945a21b64b9d22;https://github.com/openrightsgroup;Open Rights Group;False;31;13
+6458970eb3945a21b64b9d24;https://github.com/elixir-lang;The Elixir programming language;False;10;15
+6458970eb3945a21b64b9d25;https://github.com/Code-and-Coffee-YVR;Code & Coffee;False;8;5
+6458970eb3945a21b64b9d26;https://github.com/robot-overlord;Robot Overlord Software Inc.;False;2;2
+6458970eb3945a21b64b9d27;https://github.com/YVRDev;YVRDev;False;5;2
+6458970eb3945a21b64b9d28;https://github.com/vanfp;Vancouver Functional Programming Meetup;False;3;2
+6458970eb3945a21b64b9d29;https://github.com/cambiecollective;Cambie Collective;False;5;3
+6458970eb3945a21b64b9d2a;https://github.com/spadebuilders;SPADE;False;19;3
+6458970eb3945a21b64b9d2b;https://github.com/fission-codes;Fission;True;116;7
+6458970eb3945a21b64b9d2c;https://github.com/ethereum-specification;Ethereum Specification;False;1;3
+6458970eb3945a21b64b9d2d;https://github.com/witchcrafters;Witchcraft Suite;False;6;6
+6458970eb3945a21b64b9d2e;https://github.com/ucan-wg;UCAN Working Group;False;17;9
+6458970eb3945a21b64b9d2f;https://github.com/wnfs-wg;WNFS Working Group;False;7;5
+6458970eb3945a21b64b9d30;https://github.com/ipvm-wg;IPVM Working Group;False;4;1
+6458970eb3945a21b64b9d31;https://github.com/RhizomeDB;Rhizome Database;False;4;1
+6458970eb3945a21b64b9d32;https://github.com/oddsdk;ODD SDK;False;15;5
+6458970fb3945a21b64b9d37;https://github.com/ricochet-im;Ricochet IM;False;4;2
+6458970fb3945a21b64b9d38;https://github.com/GitHubBounty;GitHub Security Bug Bounty;False;0;97
+6458970fb3945a21b64b9d39;https://github.com/OnionScan;OnionScan;False;1;1
+6458970fb3945a21b64b9d3a;https://github.com/OpenPriv;Open Privacy;False;2;1
+6458970fb3945a21b64b9d3c;https://github.com/highgroove;Big Nerd Ranch;False;34;13
+6458970fb3945a21b64b9d3d;https://github.com/wiserstudios;Wiserstudios LLC;False;10;1
+6458970fb3945a21b64b9d3e;https://github.com/deftinc;Deft Inc;True;18;1
+6458970fb3945a21b64b9d3f;https://github.com/flowerworkio;Flowerwork;True;4;2
+6458970fb3945a21b64b9d40;https://github.com/flowerworkio-seeds;Flowerwork seeds;False;2;2
+6458970fb3945a21b64b9d41;https://github.com/compassx-group;CompassX Group;False;0;1
+6458970fb3945a21b64b9d43;https://github.com/namecoin;Namecoin;False;59;4
+64589716b3945a21b64b9d55;https://github.com/nzgreens;Green Party of Aotearoa / NZ;False;5;2
+64589716b3945a21b64b9d57;https://github.com/yourfirstpr;Your First PR;False;1;1
+64589716b3945a21b64b9d58;https://github.com/WeAllJS;WeAllJS;False;5;5
+64589716b3945a21b64b9d59;https://github.com/maintainers;Open Source Maintainers on GitHub [moved];False;3;331
+64589716b3945a21b64b9d5a;https://github.com/fruitfuljs;fruitful;False;2;3
+64589716b3945a21b64b9d5b;https://github.com/entropic-dev;Entropic;False;11;1
+64589716b3945a21b64b9d62;https://github.com/mutantstandard;Mutant Standard;False;4;2
+6458971db3945a21b64b9d6c;https://github.com/voxpupuli;Vox Pupuli;False;298;75
+6458971eb3945a21b64b9d73;https://github.com/FFPiHaskell;Fortgeschrittene Funktionale Programmierung In Haskell;False;6;2
+6458971eb3945a21b64b9d77;https://github.com/CraftMinecraft;CMC Development;False;28;1
+6458971eb3945a21b64b9d78;https://github.com/SmartSimTech;SmartSimTech;False;1;1
+6458971eb3945a21b64b9d79;https://github.com/FlatStoneTech;FlatStone Tech;False;3;3
+6458971eb3945a21b64b9d7a;https://github.com/FireLabsCA;FireLabs;False;0;1
+6458971eb3945a21b64b9d84;https://github.com/BlueHuskyStudios;Blue Husky Studios;True;72;1
+6458971eb3945a21b64b9d8a;https://github.com/EpicGames;Epic Games;False;11;2470
+6458971eb3945a21b64b9d8b;https://github.com/Peekeet;Peekeet Ltd;False;2;1
+6458971eb3945a21b64b9d8c;https://github.com/inkstainblue;Ink Stain Blue;False;1;1
+6458971eb3945a21b64b9d8d;https://github.com/geeksforsocialchange;Geeks for Social Change;False;26;5
+6458971eb3945a21b64b9d8e;https://github.com/replicate;Replicate;False;44;9
+6458971eb3945a21b64b9d8f;https://github.com/GenderedIntelligence;Gendered Intelligence;False;2;3
+6458971eb3945a21b64b9d90;https://github.com/The-White-Pube;The White Pube;False;0;2
+64589725b3945a21b64b9d98;https://github.com/diversityMuenchen;diversity München;False;2;2
+64589725b3945a21b64b9d99;https://github.com/eu;eu;False;2;19
+64589725b3945a21b64b9d9a;https://github.com/kuswo;Kommunal & selbstverwaltet Wohnen;False;0;1
+64589725b3945a21b64b9d9c;https://github.com/compliantcannabis-com;Compliant Cannabis;False;0;1
+64589725b3945a21b64b9da2;https://github.com/quai10;Quai n°10;False;5;1
+64589725b3945a21b64b9da3;https://github.com/RaccoonStudio;Raccoon Studio;False;3;1
+64589725b3945a21b64b9da7;https://github.com/THISSpartans;{Hack, THIS};False;6;3
+64589726b3945a21b64b9dab;https://github.com/fosbosmuenchen;Staatl. FOSBOS München;False;1;1
+64589726b3945a21b64b9db1;https://github.com/squareup;Square, Inc;True;0;875
+64589726b3945a21b64b9db5;https://github.com/fastly;Fastly;False;224;34
+64589726b3945a21b64b9db7;https://github.com/algorhythm-electronics;AlgoRhythm Electronics;False;0;1
+6458972cb3945a21b64b9dc0;https://github.com/NorgannasAddOns;Norganna's AddOns Pty Ltd;False;10;2
+6458972db3945a21b64b9dcc;https://github.com/cs690;CS 490/690 Projects;False;2;1
+6458972db3945a21b64b9dcd;https://github.com/usfvgl;USF Visualization and Graphics Lab (VGL);False;7;1
+6458972db3945a21b64b9dce;https://github.com/usf-cs212-2016;CS 212 Software Development;False;2;1
+6458972db3945a21b64b9dcf;https://github.com/usf-cs360-spring2020;CS 360/560 Data Visualization;False;134;1
+6458972db3945a21b64b9dd0;https://github.com/usf-cs272-spring2022;CS 272 Software Development;False;23;1
+64589733b3945a21b64b9dec;https://github.com/StagsCIT2016;StagsCIT2016 - PTAH org;False;1;1
+64589734b3945a21b64b9df8;https://github.com/lefty-dev;LeftDev;False;0;2
+64589734b3945a21b64b9dfa;https://github.com/hackforchange;hackforchange;False;15;27
+64589734b3945a21b64b9dfc;https://github.com/HRSF89;HRSF89;False;1;1
+64589738b3945a21b64b9e07;https://github.com/commIT-Group;commIT Group;False;3;2
+64589739b3945a21b64b9e0b;https://github.com/MISAorg;MISA;False;1;1
+64589739b3945a21b64b9e0c;https://github.com/steemutils;steemutils;False;1;1
+64589739b3945a21b64b9e0d;https://github.com/paisholeague;Pai Sho League;False;2;1
+64589739b3945a21b64b9e0e;https://github.com/tabletophelp;tabletophelp;False;1;1
+64589739b3945a21b64b9e0f;https://github.com/Collective-Intelligence;Collective Intelligence;False;6;1
+6458973fb3945a21b64b9e36;https://github.com/fromthefront;From the Front;False;8;1
+64589776b3945a21b64b9f91;https://github.com/creativemarket;Creative Market;False;46;1
+6458977bb3945a21b64b9f98;https://github.com/creativemarket;Creative Market;False;46;1
+6458978db3945a21b64b9ff8;https://github.com/urbanairship;Airship;False;161;6
+6458978db3945a21b64b9ff9;https://github.com/jazzband;Jazzband;True;74;513
+6458978db3945a21b64b9ffb;https://github.com/preceptor;Preceptor Educação a Distância;False;16;5
+6458978db3945a21b64b9ffc;https://github.com/cgauge;CustomerGauge;False;15;3
+6458978db3945a21b64ba000;https://github.com/QuiltMC;QuiltMC;True;61;27
+6458978db3945a21b64ba001;https://github.com/messloc;messloc;False;2;2
+64589792b3945a21b64ba00b;https://github.com/DCPUTeam;DCPU Team;False;8;4
+64589792b3945a21b64ba00c;https://github.com/Lysdev;Lysdev;False;0;2
+64589792b3945a21b64ba00d;https://github.com/HurricaneHackers;HurricaneHackers;False;13;8
+64589792b3945a21b64ba00e;https://github.com/ncss-2013;ncss-2013;False;3;4
+64589792b3945a21b64ba00f;https://github.com/galaxy-team;The Galaxy Team;False;9;2
+64589792b3945a21b64ba010;https://github.com/duckdb;DuckDB;False;10;6
+64589792b3945a21b64ba013;https://github.com/chaosdorf;CCC Düsseldorf;True;95;21
+64589792b3945a21b64ba014;https://github.com/entenclub;entenclub;False;2;1
+64589792b3945a21b64ba015;https://github.com/BixConcept;BixConcept;False;7;2
+64589792b3945a21b64ba018;https://github.com/columbusrb;Columbus Ruby Brigade;False;9;5
+64589792b3945a21b64ba019;https://github.com/InnovaPartners;Innova Partners;False;3;2
+64589793b3945a21b64ba01b;https://github.com/SSXModding;SSX Modding Community;False;11;1
+64589793b3945a21b64ba01e;https://github.com/Fundacao-1Bi;Fundacao-1Bi;False;3;2
+64589793b3945a21b64ba020;https://github.com/QuiltMC;QuiltMC;True;61;27
+64589793b3945a21b64ba021;https://github.com/messloc;messloc;False;2;2
+6458979ab3945a21b64ba02a;https://github.com/SpaceySciences;UGA Small Satellite Research Lab;False;15;3
+6458979ab3945a21b64ba035;https://github.com/NixOS;Nix/Nixpkgs/NixOS;True;63;745
+6458979ab3945a21b64ba036;https://github.com/ArctarusLimited;Arctarus Limited;True;22;1
+6458979ab3945a21b64ba037;https://github.com/StrataSource;Strata Source;False;57;31
+6458979ab3945a21b64ba03d;https://github.com/simplifi;Simpli.fi;True;47;5
+6458979ab3945a21b64ba03e;https://github.com/singularity-viewer;Singularity Viewer Team;False;8;3
+6458979ab3945a21b64ba041;https://github.com/golemfoundation;Golem Foundation;True;7;3
+6458979bb3945a21b64ba04c;https://github.com/ValleyCraft-Dev-Team;ValleyCraft Dev Team;False;10;3
+645897a9b3945a21b64ba09d;https://github.com/IrisGenderTalk;「彩虹女神說性別」Iris Gender Talk;False;1;1
+645897b9b3945a21b64ba0c9;https://github.com/mint-lgbt;mint.lgbt;True;28;2
+645897b9b3945a21b64ba0ca;https://github.com/themintfarm;The Mint Farm;True;8;1
+645897b9b3945a21b64ba0cb;https://github.com/bridges-anime;bridges;False;2;1
+645897b9b3945a21b64ba0cc;https://github.com/lunasoldstuff;Luna's Old Stuff;False;35;1
+645897b9b3945a21b64ba0cd;https://github.com/go-gitnub;GitNub;False;1;1
+645897b9b3945a21b64ba0ce;https://github.com/getriver;River;False;3;1
+645897b9b3945a21b64ba0cf;https://github.com/KitsuCommunity;KitsuCommunity;False;7;1
+645897b9b3945a21b64ba0d1;https://github.com/SassDoc;SassDoc;False;16;4
+645897bab3945a21b64ba0d3;https://github.com/Shopify;Shopify;True;930;204
+645897bab3945a21b64ba0d4;https://github.com/okfn-brasil;Open Knowledge Brasil - Rede pelo Conhecimento Livre;False;112;14
+645897bab3945a21b64ba0d5;https://github.com/worldbank;World Bank Group;False;178;32
+645897bab3945a21b64ba0d6;https://github.com/InternetSemLimites;Internet Sem Limites;False;3;2
+645897bab3945a21b64ba0d7;https://github.com/flask-extensions;Flask Extensions;False;5;5
+645897bab3945a21b64ba0d9;https://github.com/moveaxlab;moveax srl;False;23;3
+645897bab3945a21b64ba0db;https://github.com/together-support;together-support;False;3;3
+645897bab3945a21b64ba0de;https://github.com/rednit-team;rednit;False;8;4
+645897bab3945a21b64ba0e0;https://github.com/stackblitz;StackBlitz;True;33;10
+645897bab3945a21b64ba0e6;https://github.com/ebanalyse;Ekstra Bladet;False;12;1
+645897bab3945a21b64ba0e7;https://github.com/pnk-sh;pnk.sh;False;13;1
+645897bab3945a21b64ba0e8;https://github.com/justlittlebot-com;justlittlebot.com;False;0;1
+645897bab3945a21b64ba0ee;https://github.com/4Soft;4Soft;False;12;6
+645897bbb3945a21b64ba0f4;https://github.com/mutantstandard;Mutant Standard;False;4;2
+645897bbb3945a21b64ba0f6;https://github.com/factorial-io;Factorial;False;106;20
+645897bbb3945a21b64ba0f7;https://github.com/pangolinjs;Pangolin.js;True;12;1
+645897bbb3945a21b64ba0f8;https://github.com/miyagi-dev;miyagi;False;7;1
+645897bbb3945a21b64ba0fb;https://github.com/PHP-FFMpeg;PHP-FFMpeg;False;3;5
+645897bbb3945a21b64ba0fc;https://github.com/Karisch;Karisch IT Services;False;9;1
+645897bbb3945a21b64ba0fd;https://github.com/comPHPiler;comPHPiler;False;0;1
+645897bbb3945a21b64ba0fe;https://github.com/Bartacus;Bartacus;False;12;1
+645897bbb3945a21b64ba101;https://github.com/nucleo-digital;Núcleo Digital;False;38;1
+645897c1b3945a21b64ba106;https://github.com/SGDInstitute;Midwest Institute for Sexuality and Gender Diversity;False;5;1
+645897c1b3945a21b64ba10b;https://github.com/code4nova;Code for Northern Virginia (NoVA);False;26;6
+645897c1b3945a21b64ba117;https://github.com/The-Property-Estimators;The-Property-Estimators;False;1;2
+645897c7b3945a21b64ba12c;https://github.com/felix-lang;Felix Programming Language;False;20;5
+645897c7b3945a21b64ba131;https://github.com/integratedmarketingtechnologies;Integrated Marketing Technologies;False;2;1
+645897c8b3945a21b64ba13d;https://github.com/iTrace-Dev;iTrace-Dev;False;8;4
+645897e5b3945a21b64ba1d2;https://github.com/anegostudios;Anego Studios;False;24;1
+645897e5b3945a21b64ba1d3;https://github.com/PolyplexEngine;Polyplex;False;20;1
+645897e5b3945a21b64ba1d4;https://github.com/glimpse-editor;Glimpse Image Editor;False;7;3
+645897e5b3945a21b64ba1d5;https://github.com/CospecGames;Cospec Games;False;3;1
+645897e5b3945a21b64ba1d6;https://github.com/KitsunebiGames;Kitsunebi;False;9;1
+645897e5b3945a21b64ba1d7;https://github.com/Inochi2D;Inochi2D;True;41;1
+645897e5b3945a21b64ba1d9;https://github.com/hoedown;Hoedown;False;19;2
+645897e5b3945a21b64ba1da;https://github.com/nodejs;Node.js;True;201;183
+645897e5b3945a21b64ba1db;https://github.com/botgram;Botgram;False;7;1
+645897e5b3945a21b64ba1de;https://github.com/themanaworld;The Mana World;True;26;10
+645897e6b3945a21b64ba1e8;https://github.com/Kingdom-of-The-Moon;Kingdom of The Moon ;False;24;2
+645897e6b3945a21b64ba1ee;https://github.com/railsgirlsrj;Rails Girls RJ;False;3;5
+645897e6b3945a21b64ba1ef;https://github.com/TechWomenOnBeer;Tech Women On Beer;False;1;1
+645897e6b3945a21b64ba1f0;https://github.com/ProgramacaoParaTodes;Programação para Todes;False;6;1
+645897e6b3945a21b64ba1f3;https://github.com/VoiceGym;VoiceGym;False;3;2
+64589814b3945a21b64ba300;https://github.com/scyllo-oss;Scyllo;False;1;4
+64589814b3945a21b64ba301;https://github.com/discatpy-dev;DisCatPy;False;3;1
+64589815b3945a21b64ba305;https://github.com/govhackaustralia;GovHack Australia;False;15;2
+64589815b3945a21b64ba306;https://github.com/accessible-melbourne;accessible-melbourne;False;4;1
+64589815b3945a21b64ba307;https://github.com/techinschools;techinschools;False;1;1
+64589820b3945a21b64ba352;https://github.com/Savvanah21;Savvanah21;False;0;1
+6458983bb3945a21b64ba3ed;https://github.com/authmyproject;AuthMyProject;True;0;1
+6458983bb3945a21b64ba3ef;https://github.com/DiscordSputnik;Sputnik Bot;False;0;3
+6458983bb3945a21b64ba3f1;https://github.com/hackclub;Hack Club;True;373;649
+6458983bb3945a21b64ba3f2;https://github.com/PGamerX-Legacy;PGamerx Legacy;False;4;1
+6458983bb3945a21b64ba3f3;https://github.com/HackHajs;HackHajs;False;1;2
+6458983bb3945a21b64ba3f6;https://github.com/Stardust-Industries;Stardust-Industries;False;6;1
+64589847b3945a21b64ba436;https://github.com/MobilePorting;Mobile Porting Team;False;15;3
+64589847b3945a21b64ba438;https://github.com/ticketfrei;Ticketfrei;False;4;1
+64589847b3945a21b64ba43f;https://github.com/FrozenBlock;FrozenBlock;False;7;3
+64589847b3945a21b64ba441;https://github.com/3v3ry0n3;everyone get in!;False;481;39
+64589864b3945a21b64ba4ca;https://github.com/DCPUTeam;DCPU Team;False;8;4
+64589864b3945a21b64ba4cb;https://github.com/Lysdev;Lysdev;False;0;2
+64589864b3945a21b64ba4cc;https://github.com/HurricaneHackers;HurricaneHackers;False;13;8
+64589864b3945a21b64ba4cd;https://github.com/ncss-2013;ncss-2013;False;3;4
+64589864b3945a21b64ba4ce;https://github.com/galaxy-team;The Galaxy Team;False;9;2
+64589864b3945a21b64ba4cf;https://github.com/duckdb;DuckDB;False;10;6
+64589864b3945a21b64ba4d1;https://github.com/mbta;Massachusetts Bay Transportation Authority ;True;84;7
+64589864b3945a21b64ba4d2;https://github.com/Hand-and-Machine;Hand and Machine;False;8;2
+64589864b3945a21b64ba4d5;https://github.com/chaosdorf;CCC Düsseldorf;True;95;21
+64589864b3945a21b64ba4d6;https://github.com/entenclub;entenclub;False;2;1
+64589864b3945a21b64ba4d7;https://github.com/BixConcept;BixConcept;False;7;2
+64589865b3945a21b64ba4de;https://github.com/SSXModding;SSX Modding Community;False;11;1
+64589865b3945a21b64ba4e2;https://github.com/columbusrb;Columbus Ruby Brigade;False;9;5
+64589865b3945a21b64ba4e3;https://github.com/InnovaPartners;Innova Partners;False;3;2
+64589865b3945a21b64ba4ec;https://github.com/QuiltMC;QuiltMC;True;61;27
+64589865b3945a21b64ba4ed;https://github.com/messloc;messloc;False;2;2
+64589865b3945a21b64ba4f0;https://github.com/Fundacao-1Bi;Fundacao-1Bi;False;3;2
+64589865b3945a21b64ba4f4;https://github.com/RidgewayWeb;RidgewayWeb;False;2;2
+6458986bb3945a21b64ba4fa;https://github.com/ASHEnterprizes;ASH Enterprizes LLC;False;1;1
+6458986bb3945a21b64ba500;https://github.com/Moluccus-inc;Moluccus;False;0;1
+64589aaf3c8a03fa074d3e54;https://github.com/ThreatDetectives;ThreatDetectives;False;5;1
+64589ab63c8a03fa074d3e56;https://github.com/ThreatDetectives;ThreatDetectives;False;5;1
+64589c8e3c8a03fa074d3e9a;https://github.com/rack;Official Rack repositories;False;10;13
+64589c8e3c8a03fa074d3e9b;https://github.com/void-linux;VoidLinux;True;31;17
+64589c8e3c8a03fa074d3e9c;https://github.com/notqmail;notqmail;False;3;2
+64589c8e3c8a03fa074d3e9e;https://github.com/NixOS;Nix/Nixpkgs/NixOS;True;63;745
+64589c8e3c8a03fa074d3e9f;https://github.com/BoofPC;Booth CS;False;8;8
+64589c8e3c8a03fa074d3ea0;https://github.com/frc3223;ROCK 3223;False;38;4
+64589c8e3c8a03fa074d3ea1;https://github.com/Project-M-CC;Project M Community Complete;False;5;5
+64589c8e3c8a03fa074d3ea2;https://github.com/xmoto;xmoto;False;3;3
+64589c8e3c8a03fa074d3ea3;https://github.com/remacs;Remacs;False;2;7
+64589c8e3c8a03fa074d3ea4;https://github.com/catgirl-v;catgirl-v;False;2;2
+64589c8e3c8a03fa074d3ea5;https://github.com/Random-People;Random People;False;16;7
+64589c8e3c8a03fa074d3ea8;https://github.com/NKPy;NKPy;False;1;1
+64589c8e3c8a03fa074d3ea9;https://github.com/harmonyland;Harmony;False;6;6
+64589c8e3c8a03fa074d3eaa;https://github.com/SwiftSimpers;Swift Simpers;False;8;1
+64589c8e3c8a03fa074d3eab;https://github.com/purity-ext;Purity;False;2;1
+64589c8e3c8a03fa074d3eac;https://github.com/Ekonomi-moe;Ekonomi-moe;False;5;2
+64589c8e3c8a03fa074d3eaf;https://github.com/anjaraeu;Anjara;True;10;5
+64589c8e3c8a03fa074d3eb0;https://github.com/akmey;Akmey;True;8;2
+64589c8e3c8a03fa074d3eb4;https://github.com/FRC1076;FRC1076 PiHi Samurai;False;56;2
+64589c8e3c8a03fa074d3eb6;https://github.com/HiddenNoMore;HiddenNoMore;False;1;1
+64589c8e3c8a03fa074d3eb7;https://github.com/gdg-cloud-stockholm;Google Developer Group Cloud Stockholm;False;1;2
+64589c8e3c8a03fa074d3eba;https://github.com/SalineSingularityFRC;Saline Singularity;False;44;3
+64589c8e3c8a03fa074d3ebb;https://github.com/slashlostfound;/lost+found/;False;6;1
+64589c8e3c8a03fa074d3ebd;https://github.com/pathccm;Path;False;1;1
+64589c8f3c8a03fa074d3ec0;https://github.com/TheCodeLab;Code Lab;False;4;2
+64589c8f3c8a03fa074d3ec3;https://github.com/kiberpipa;Kiberpipa;False;23;15
+64589c8f3c8a03fa074d3ec4;https://github.com/eestec;EESTEC;False;5;13
+64589c8f3c8a03fa074d3ec6;https://github.com/rcos;Rensselaer Center for Open Source;False;66;19
+64589c8f3c8a03fa074d3ec7;https://github.com/YACS-RCOS;YACS;False;42;11
+64589c8f3c8a03fa074d3ec8;https://github.com/Wright-Language-Developers;Wright Language;False;10;1
+64589c8f3c8a03fa074d3eca;https://github.com/TampaHackerspace;Tampa Hackerspace;False;25;3
+64589c8f3c8a03fa074d3ecb;https://github.com/WGU-CCDC;WGU Cybersecurity Club;False;4;2
+64589c8f3c8a03fa074d3ecc;https://github.com/UCF-Coding-Boot-Camp;UCF Coding Bootcamp;False;3;17
+64589c8f3c8a03fa074d3ecd;https://github.com/WGU-Cybersecurity-Club;WGU Cybersecurity Club;False;3;1
+64589c8f3c8a03fa074d3ed2;https://github.com/WWXD;WWXD;False;8;2
+64589c8f3c8a03fa074d3ed5;https://github.com/geeknight-march-2021;geeknight-march-2021;False;5;2
+64589c953c8a03fa074d3ede;https://github.com/The-Baltimore-Transgender-Alliance;The Baltimore Transgender Alliance;False;2;1
+64589c953c8a03fa074d3ee1;https://github.com/openlectures;The Bell Curve God;False;17;7
+64589c963c8a03fa074d3ef0;https://github.com/ufosc;UF Open Source Club;False;51;8
+64589cba3c8a03fa074d3f60;https://github.com/robolectric;Robolectric;False;11;6
+64589cba3c8a03fa074d3f61;https://github.com/baaahs;BAAAHS;False;24;3
+64589cc03c8a03fa074d3f64;https://github.com/checkra1n;checkra1n;False;8;9
+64589cc03c8a03fa074d3f65;https://github.com/hack-different;Hack Different;True;62;11
+64589ccf3c8a03fa074d3f6a;https://github.com/oracle;Oracle;True;268;1214
+64589ccf3c8a03fa074d3f6b;https://github.com/oracle-actions;Oracle GitHub Actions;False;6;6
+64589cdb3c8a03fa074d3f6e;https://github.com/DistributedProofreaders;Distributed Proofreaders;False;10;2
+64589ce63c8a03fa074d3f71;https://github.com/XRTouch;XRTouch;False;5;1
+64589d1b3c8a03fa074d3f7a;https://github.com/CursedCreationsTeam;Cursed Creations;False;1;2
+64589edfa47fd7dcc7934388;https://github.com/ClangBuiltLinux;ClangBuiltLinux;False;30;42
+6458a022ffb53b7f67060abb;https://github.com/vignetteapp;Vignette;True;17;9
+6458a04cffb53b7f67060ac8;https://github.com/lubuntu-dev;lubuntu community project;False;3;53
+6458a04cffb53b7f67060ac9;https://github.com/phimpme;Phimp.me;False;4;92
+6458a04cffb53b7f67060aca;https://github.com/meilix;Meilix;False;8;69
+6458a04cffb53b7f67060acb;https://github.com/fossasia;FOSSASIA;False;242;2115
+6458a04cffb53b7f67060acc;https://github.com/fashiontec;FashionTec;False;15;71
+6458a04cffb53b7f67060acd;https://github.com/OpnTec;opntec;False;68;193
+6458a04cffb53b7f67060ace;https://github.com/libredesktop;Libre Desktop;False;5;65
+6458a04cffb53b7f67060acf;https://github.com/ffii;Foundation for a Free Information Infrastructure;False;6;71
+6458a04cffb53b7f67060ad0;https://github.com/loklak;loklak;False;20;139
+6458a065ffb53b7f67060ad7;https://github.com/woomyware;WoomyWare;False;2;3
+6458a075ffb53b7f67060adf;https://github.com/Plone-Conference-Devs;Plone Conference Dev Team;False;9;9
+6458a075ffb53b7f67060ae0;https://github.com/universityofcalifornia;University of California;False;6;11
+6458a4f519cb41e8751ee276;https://github.com/rust-lang;The Rust Programming Language;True;198;190
+6458a4f519cb41e8751ee277;https://github.com/rust-lang-nursery;rust-lang-nursery;False;24;60
+6458a4f519cb41e8751ee278;https://github.com/LykenSol;Lyken;True;21;4
+6458a4f519cb41e8751ee279;https://github.com/EmbarkStudios;Embark;True;301;148
+6458a4f519cb41e8751ee27a;https://github.com/image-rs;image-rs;False;22;18
+6458a4f519cb41e8751ee27b;https://github.com/LykenSol-abandoned;LykenSol-abandoned;False;3;1
+6458a4f519cb41e8751ee27c;https://github.com/eddyb-abandoned;eddyb-abandoned;False;11;1
+6458a4f519cb41e8751ee27e;https://github.com/CrowdVoyant;CrowdVoyant;False;6;3
+6458a4f519cb41e8751ee27f;https://github.com/UCSB-CS189-2016-17-Aerospace;UCSB-CS189-2016-17-Aerospace;False;4;1
+6458a4f519cb41e8751ee280;https://github.com/LambdaML;Lambda ML;False;315;1
+6458a4f519cb41e8751ee283;https://github.com/UPRacing;UPRacing;False;0;1
+6458a4f519cb41e8751ee284;https://github.com/rosedigital;ROSE Digital;False;1;1
+6458a4f519cb41e8751ee286;https://github.com/NixOS;Nix/Nixpkgs/NixOS;True;63;745
+6458a4f519cb41e8751ee287;https://github.com/openlab-aux;OpenLab Augsburg e.V.;False;85;16
+6458a4f519cb41e8751ee288;https://github.com/curry-club-aux;Curry Club Augsburg;False;3;17
+6458a4f519cb41e8751ee289;https://github.com/beetbox;beetbox;False;8;16
+6458a4f519cb41e8751ee28a;https://github.com/lojbanistan;lojbanistan;False;2;2
+6458a4f519cb41e8751ee28b;https://github.com/dhall-lang;Dhall;False;15;5
+6458a4f519cb41e8751ee28d;https://github.com/robotlegs;Robotlegs;False;14;6
+6458a4f519cb41e8751ee28e;https://github.com/snyk;Snyk;True;210;26
+6458a4f519cb41e8751ee291;https://github.com/eclipse;Eclipse Foundation;True;451;181
+6458a4f519cb41e8751ee292;https://github.com/mqtt;MQTT;False;3;1
+6458a4f519cb41e8751ee293;https://github.com/hackdaymanifesto;The Hack Day Manifesto;False;1;9
+6458a4f519cb41e8751ee294;https://github.com/makeronicc;Makeroni;False;6;2
+6458a4f519cb41e8751ee296;https://github.com/recursecenter;Recurse Center;False;16;378
+6458a4f519cb41e8751ee297;https://github.com/MetaFilter;MetaFilter;False;0;4
+6458a4f519cb41e8751ee298;https://github.com/bookwyrm-social;BookWyrm;False;3;4
+6458a4fa19cb41e8751ee29c;https://github.com/apc-io;APC;False;52;2
+6458a4fa19cb41e8751ee29d;https://github.com/codexa;Codexa;False;10;4
+6458a4fa19cb41e8751ee29e;https://github.com/skilljar;Skilljar;False;2;1
+6458a4fa19cb41e8751ee29f;https://github.com/airbornio;Airborn;False;12;2
+6458a4fa19cb41e8751ee2a1;https://github.com/sailfish-oneplus6;sailfish-oneplus6;False;22;1
+6458a4fa19cb41e8751ee2a3;https://github.com/Windows-XAML;Windows XAML;False;8;16
+6458a4fa19cb41e8751ee2a5;https://github.com/tent;Tent;False;61;3
+6458a4fa19cb41e8751ee2a7;https://github.com/emqx;EMQ Technologies;False;241;67
+6458a4fa19cb41e8751ee2a8;https://github.com/Agda-zh;Agda 中文文档;False;4;1
+6458a4fa19cb41e8751ee2a9;https://github.com/ZHaskell;Z.Haskell;False;31;3
+6458a4fa19cb41e8751ee2aa;https://github.com/hstreamdb;HStreamDB;False;43;7
+6458a4fa19cb41e8751ee2ab;https://github.com/lambda-magic;λ Magic;False;6;4
+6458a4fa19cb41e8751ee2ad;https://github.com/openmrs;OpenMRS;True;313;88
+6458a4fa19cb41e8751ee2ae;https://github.com/propershark;Proper Shark;False;17;2
+6458a4fa19cb41e8751ee2b0;https://github.com/GSA;U.S. General Services Administration;False;964;46
+6458a4fa19cb41e8751ee2b1;https://github.com/GSA-TTS;Technology Transformation Services;False;37;7
+6458a4ff19cb41e8751ee2b5;https://github.com/processing;Processing Foundation;False;39;52
+6458a50019cb41e8751ee2b7;https://github.com/w3c;World Wide Web Consortium;True;1010;391
+6458a50019cb41e8751ee2b8;https://github.com/persian-computing;Persian Computing;False;12;1
+6458a50019cb41e8751ee2b9;https://github.com/servo;Servo;True;183;33
+6458a50019cb41e8751ee2ba;https://github.com/unicode-org;The Unicode Consortium;False;41;31
+6458a50019cb41e8751ee2bb;https://github.com/VirguleType;Virgule Typeworks;False;0;1
+6458a50019cb41e8751ee2bc;https://github.com/harfbuzz;HarfBuzz;False;14;5
+6458a50019cb41e8751ee2bd;https://github.com/open-i18n;open-i18n — Open Internationalization Initiative;False;12;3
+6458a50019cb41e8751ee2be;https://github.com/Menlo-Community;Menlo Community;False;1;1
+6458a50019cb41e8751ee2c0;https://github.com/freckle;Freckle;False;100;3
+6458a50019cb41e8751ee2c2;https://github.com/tamucybersec;tamucybersec;False;10;3
+6458a50019cb41e8751ee2c5;https://github.com/recursecenter;Recurse Center;False;16;378
+6458a50019cb41e8751ee2c8;https://github.com/NixOS;Nix/Nixpkgs/NixOS;True;63;745
+6458a50019cb41e8751ee2c9;https://github.com/rust-lang;The Rust Programming Language;True;198;190
+6458a50019cb41e8751ee2ca;https://github.com/irdest;Irdest;False;1;1
+6458a50019cb41e8751ee2cc;https://github.com/sveltejs;Svelte;True;70;28
+6458a50019cb41e8751ee2cd;https://github.com/svelte-add;Svelte Add;False;17;2
+6458a50419cb41e8751ee2d0;https://github.com/recursecenter;Recurse Center;False;16;378
+6458a50419cb41e8751ee2d1;https://github.com/alumNY;hackNY alumNY;False;4;89
+6458a50419cb41e8751ee2d2;https://github.com/hack4impact-upenn;Hack4Impact UPenn;False;65;32
+6458a50419cb41e8751ee2d6;https://github.com/TheOpenSpaceProgram;Open Space Program;False;6;2
+6458a50419cb41e8751ee2d7;https://github.com/hyphen-hacks;Hyphen-Hacks;False;13;3
+6458a50419cb41e8751ee2d8;https://github.com/FlightClubAerospace;FlightClubAerospace;False;3;2
+6458a50419cb41e8751ee2da;https://github.com/pytent;The Python Tent Group;False;2;4
+6458a50419cb41e8751ee2dc;https://github.com/asdf-community;asdf-community;False;63;13
+6458a50419cb41e8751ee2df;https://github.com/Pocket;Pocket;False;70;8
+6458a50819cb41e8751ee2e2;https://github.com/ventureforamerica;Venture for America;False;1;1
+6458a50819cb41e8751ee2e3;https://github.com/classtracks;ClassTracks;False;4;1
+6458a50819cb41e8751ee2e5;https://github.com/alumNY;hackNY alumNY;False;4;89
+6458a50819cb41e8751ee2e6;https://github.com/wolfbox;wolfbox;False;15;1
+6458a50919cb41e8751ee2ec;https://github.com/open-source-labs;OSLabs;False;25;37
+6458a50919cb41e8751ee2ef;https://github.com/haskell;Haskell;False;89;56
+6458a50919cb41e8751ee2f0;https://github.com/Queertoo;Queertoo Community;False;1;2
+6458a50919cb41e8751ee2f1;https://github.com/haskell-effectful;haskell-effectful;False;10;1
+6458a50e19cb41e8751ee2f5;https://github.com/racket;Racket;True;126;15
+6458a50e19cb41e8751ee2f8;https://github.com/UCSFMemoryAndAging;UCSF Memory and Aging Center;False;5;4
+6458a50e19cb41e8751ee2f9;https://github.com/spendright;spendright;False;9;2
+6458a50e19cb41e8751ee2fd;https://github.com/raumzeitlabor;RaumZeitLabor;True;118;19
+6458a50e19cb41e8751ee2fe;https://github.com/curry-club-aux;Curry Club Augsburg;False;3;17
+6458a50e19cb41e8751ee2ff;https://github.com/collaborare;collaborare;False;3;1
+6458a50e19cb41e8751ee300;https://github.com/lojbanistan;lojbanistan;False;2;2
+6458a50e19cb41e8751ee301;https://github.com/fnordcredit;Fnordcredit;False;5;2
+6458a51219cb41e8751ee303;https://github.com/raumzeitlabor;RaumZeitLabor;True;118;19
+6458a51219cb41e8751ee304;https://github.com/curry-club-aux;Curry Club Augsburg;False;3;17
+6458a51219cb41e8751ee305;https://github.com/collaborare;collaborare;False;3;1
+6458a51219cb41e8751ee306;https://github.com/lojbanistan;lojbanistan;False;2;2
+6458a51219cb41e8751ee307;https://github.com/fnordcredit;Fnordcredit;False;5;2
+6458a51219cb41e8751ee309;https://github.com/NetBSD;The NetBSD Foundation;True;7;42
+6458a51219cb41e8751ee30d;https://github.com/Spotifyd;Spotifyd;False;4;5
+6458a51219cb41e8751ee30e;https://github.com/zors-engine;ZORS Engine;False;1;1
+6458a51219cb41e8751ee30f;https://github.com/env-logger-rs;env-logger-rs;False;0;1
+6458a51219cb41e8751ee310;https://github.com/conventional-commits-rs;conventional-commits-rs;False;9;1
+6458a51219cb41e8751ee311;https://github.com/vanilla-friendly-datapacks;Vanilla Friendly Datapacks;False;0;1
+6458a51219cb41e8751ee312;https://github.com/catppuccin;Catppuccin;True;219;46
+6458a51319cb41e8751ee316;https://github.com/galah-group;Galah Group;False;7;2
+6458a51319cb41e8751ee317;https://github.com/thelounge;The Lounge;True;12;10
+6458a51319cb41e8751ee319;https://github.com/OSULUG;Oregon State Linux Users Group;False;8;5
+6458a51319cb41e8751ee31a;https://github.com/veekun;veekun;False;6;3
+6458a51319cb41e8751ee31b;https://github.com/osucloudcrypto;OSU Cloud Crypto;False;1;1
+6458a51319cb41e8751ee31d;https://github.com/react-bootstrap;react-bootstrap;False;17;21
+6458a51719cb41e8751ee31f;https://github.com/openrightsgroup;Open Rights Group;False;31;13
+6458a51719cb41e8751ee320;https://github.com/HackSoc;HackSoc;True;26;12
+6458a51719cb41e8751ee321;https://github.com/sirpent-team;The Sirpent Project;False;7;2
+6458a51719cb41e8751ee322;https://github.com/46bit-users;46bit-users;False;0;2
+6458a51719cb41e8751ee326;https://github.com/slatl;STAR Labs;False;1;1
+6458a51719cb41e8751ee32a;https://github.com/Turfjs;turf;False;35;10
+6458a51719cb41e8751ee32c;https://github.com/Hunter-Open-Source-Club;Hunter Open Source Club;True;17;3
+6458a51719cb41e8751ee32d;https://github.com/HackGuild;HackGuild;False;1;2
+6458a51719cb41e8751ee32e;https://github.com/Web-Dev-Speedrunners;Web Dev Speed Run Any% Glitchless;False;10;4
+6458a51b19cb41e8751ee339;https://github.com/ChaiScript;ChaiScript;False;13;2
+6458a51b19cb41e8751ee33a;https://github.com/nushell;Nushell Project;False;19;3
+6458a51e19cb41e8751ee33c;https://github.com/fffunction;fffunction;False;22;2
+6458a51e19cb41e8751ee33d;https://github.com/cornwallgeeks;Cornwall Geeks;False;4;2
+6458a51f19cb41e8751ee341;https://github.com/AIR-EISTI;AIR-EISTI;False;10;5
+6458a51f19cb41e8751ee342;https://github.com/lpmng;lpmng;False;6;3
+6458a51f19cb41e8751ee343;https://github.com/zonemaster;Zonemaster;False;10;2
+6458a51f19cb41e8751ee347;https://github.com/Notelek;Notelek Creative Agency;False;1;1
+6458a51f19cb41e8751ee348;https://github.com/bitfocus;Bitfocus AS - Open Source;False;551;9
+6458a52519cb41e8751ee34d;https://github.com/democracy-ia;democracy-ia;False;5;1
+6458a52519cb41e8751ee350;https://github.com/summerofcode;Summer of Code;False;2;10
+6458a52519cb41e8751ee351;https://github.com/fossasia;FOSSASIA;False;242;2115
+6458a52519cb41e8751ee352;https://github.com/coala;coala development group;False;58;323
+6458a52519cb41e8751ee353;https://github.com/loklak;loklak;False;20;139
+6458a52519cb41e8751ee354;https://github.com/viper-development;FounderBlocks;False;34;3
+6458a52519cb41e8751ee355;https://github.com/Wikimedia-ID;Wikimedia Indonesia;False;5;6
+6458a52519cb41e8751ee356;https://github.com/cipta-media;Cipta Media;False;27;3
+6458a52519cb41e8751ee35c;https://github.com/hackclub;Hack Club;True;373;649
+6458a52519cb41e8751ee35d;https://github.com/blinkcare;Blink;False;4;2
+6458a52519cb41e8751ee35e;https://github.com/tachyons-css;tachyons-css;False;80;8
+6458a52519cb41e8751ee35f;https://github.com/SCHacks;State High Hack Club;False;7;1
+6458a52519cb41e8751ee360;https://github.com/hackpenn;Hack Pennsylvania;True;2;2
+6458a52519cb41e8751ee361;https://github.com/windyhacks;Windy City Hacks;True;3;2
+6458a52519cb41e8751ee362;https://github.com/system-ui;System UI;False;4;6
+6458a52519cb41e8751ee365;https://github.com/infosiftr;InfoSiftr;True;89;4
+6458a52519cb41e8751ee366;https://github.com/Debian;The Universal OS;False;120;54
+6458a52519cb41e8751ee367;https://github.com/hylang;Hy Society;False;20;16
+6458a52519cb41e8751ee368;https://github.com/docker-library;Docker Official Images;False;47;4
+6458a52519cb41e8751ee369;https://github.com/constabulary;constabulary;False;8;1
+6458a52519cb41e8751ee36a;https://github.com/opencontainers;Open Container Initiative;False;22;24
+6458a52519cb41e8751ee36b;https://github.com/containerd;containerd;False;30;38
+6458a52519cb41e8751ee36c;https://github.com/urfave;urfave;False;6;17
+6458a52519cb41e8751ee36d;https://github.com/maintainers;Open Source Maintainers on GitHub [moved];False;3;331
+6458a52519cb41e8751ee36e;https://github.com/moby;Moby;False;26;32
+6458a52519cb41e8751ee36f;https://github.com/goharbor;Harbor;True;20;6
+6458a52519cb41e8751ee370;https://github.com/hztools;hz.tools;True;13;2
+6458a52519cb41e8751ee371;https://github.com/devgistics;Devgistics;False;0;1
+6458a52519cb41e8751ee372;https://github.com/self-five;self-five;False;8;1
+6458a52919cb41e8751ee375;https://github.com/pantheon-systems;Pantheon;True;293;56
+6458a52a19cb41e8751ee377;https://github.com/SkyCryptWebsite;SkyCrypt;False;2;3
+6458a52a19cb41e8751ee378;https://github.com/bigraccoonmonster;big raccoon;False;1;1
+6458a52a19cb41e8751ee37c;https://github.com/florence-social;Florence;True;2;4
+6458a52a19cb41e8751ee37f;https://github.com/fivepmtechnology;FivePM Technology, Inc.;False;13;2
+6458a52a19cb41e8751ee380;https://github.com/funnelfire;FunnelFire;False;14;3
+6458a52e19cb41e8751ee386;https://github.com/Flux-Foundation;Flux Foundation;False;3;1
+6458a52e19cb41e8751ee389;https://github.com/tinypalace;tinypalace;False;2;1
+6458a53219cb41e8751ee38f;https://github.com/OnyxFox-Development;OnyxFox-Development;False;6;1
+6458a53219cb41e8751ee390;https://github.com/TotallyNotRobots;Totally Not Robots;False;22;3
+6458a53219cb41e8751ee392;https://github.com/gaybe-safe-haven;gaybe-safe-haven;False;4;1
+6458a53719cb41e8751ee39c;https://github.com/FOSSRIT;Free/Open Source Software at RIT;False;161;69
+6458a53719cb41e8751ee39d;https://github.com/toscawidgets;ToscaWidgets;False;51;4
+6458a53719cb41e8751ee39e;https://github.com/hhroc;Hacks/Hackers Rochester;False;29;5
+6458a53719cb41e8751ee39f;https://github.com/DanburyHackerspace;Danbury Hackerspace;False;0;2
+6458a53719cb41e8751ee3a2;https://github.com/hpc-carpentry;HPC Carpentry;True;12;14
+6458a53719cb41e8751ee3a6;https://github.com/codetakt;codeTakt Inc.;False;7;5
+6458a53719cb41e8751ee3a8;https://github.com/NixOS;Nix/Nixpkgs/NixOS;True;63;745
+6458a53b19cb41e8751ee3ab;https://github.com/emergencyindex;Emergency INDEX;False;11;1
+6458a53b19cb41e8751ee3ac;https://github.com/marshlife-art;MARSH;False;7;1
+6458a53b19cb41e8751ee3b2;https://github.com/aesiniath;Athae Eredh Siniath;False;16;3
+6458a53b19cb41e8751ee3b3;https://github.com/technique-lang;Technique;False;2;2
+6458a53f19cb41e8751ee3b7;https://github.com/Georgetown-IR-Lab;Georgetown Information Retrieval Lab;False;23;4
+6458a53f19cb41e8751ee3b8;https://github.com/allenai;AI2;False;397;17
+6458a53f19cb41e8751ee3bd;https://github.com/nss-day-cohort-23;NSS Day Cohort 23;False;67;1
+6458a54019cb41e8751ee3c0;https://github.com/SEDMachine;SED Machine Instrument;False;2;2
+6458a54019cb41e8751ee3c2;https://github.com/InternationalScratchWiki;International Scratch Wiki;False;24;6
+6458a54019cb41e8751ee3c3;https://github.com/ScratchAddons;Scratch Addons;False;31;14
+6458a54019cb41e8751ee3c6;https://github.com/microsoft;Microsoft;True;5557;4355
+6458a54019cb41e8751ee3c7;https://github.com/github-beta;github-beta;False;1;512
+6458a54019cb41e8751ee3c8;https://github.com/dotnet;.NET Platform;True;233;566
+6458a54019cb41e8751ee3c9;https://github.com/terrafx;TerraFX;True;13;1
+6458a54019cb41e8751ee3ca;https://github.com/novelrt;NovelRT;True;17;3
+6458a54019cb41e8751ee3cb;https://github.com/dotnet-foundation;.NET Foundation;True;25;214
+6458a54419cb41e8751ee3ce;https://github.com/microsoft;Microsoft;True;5557;4355
+6458a54419cb41e8751ee3cf;https://github.com/github-beta;github-beta;False;1;512
+6458a54419cb41e8751ee3d0;https://github.com/dotnet;.NET Platform;True;233;566
+6458a54419cb41e8751ee3d1;https://github.com/terrafx;TerraFX;True;13;1
+6458a54419cb41e8751ee3d2;https://github.com/novelrt;NovelRT;True;17;3
+6458a54419cb41e8751ee3d3;https://github.com/dotnet-foundation;.NET Foundation;True;25;214
+6458a54419cb41e8751ee3d5;https://github.com/waterbeargames;waterbeargames;False;2;1
+6458a54419cb41e8751ee3d6;https://github.com/sideprojectsclub;sideprojectsclub;False;4;1
+6458a54419cb41e8751ee3d7;https://github.com/OmahaGirlsWhoCode;Omaha Girls Who Code;False;15;1
+6458a54419cb41e8751ee3d8;https://github.com/DriveOff;DriveOff;False;3;1
+6458a54419cb41e8751ee3d9;https://github.com/puzzalea;puzzalea;False;7;1
+6458a54519cb41e8751ee3db;https://github.com/LLNL;Lawrence Livermore National Laboratory;True;474;151
+6458a54519cb41e8751ee3dd;https://github.com/neondatabase;neondatabase;True;53;11
+6458a54519cb41e8751ee3de;https://github.com/dymium-editor;dymium-editor;False;2;1
+6458a54519cb41e8751ee3e1;https://github.com/nodejs;Node.js;True;201;183
+6458a54519cb41e8751ee3e2;https://github.com/RiceComp427;Rice Comp427;False;59;1
+6458a54519cb41e8751ee3e3;https://github.com/furality;Furality;True;3;7
+6458a54519cb41e8751ee3e4;https://github.com/synclounge;synclounge;True;4;2
+6458a54919cb41e8751ee3e8;https://github.com/bbc;BBC;False;1041;62
+6458a54919cb41e8751ee3e9;https://github.com/getpelican;Pelican dev team;False;8;7
+6458a54919cb41e8751ee3ec;https://github.com/lmaodesign;design by lmao.;True;4;3
+6458a54919cb41e8751ee3ed;https://github.com/pursonal;pursonal;False;2;1
+6458a54919cb41e8751ee3f1;https://github.com/infosiftr;InfoSiftr;True;89;4
+6458a54919cb41e8751ee3f2;https://github.com/docker-library;Docker Official Images;False;47;4
+6458a54d19cb41e8751ee3f7;https://github.com/ComfyCraft;Comfy SMP;True;3;1
+6458a54d19cb41e8751ee3fc;https://github.com/UnionOfRAD;Union of RAD;False;25;12
+6458a54d19cb41e8751ee3fd;https://github.com/tulsawebdevs;Tulsa WebDevs;False;45;19
+6458a54d19cb41e8751ee3fe;https://github.com/bayleeadamoss;Baylee/Adam OSS;False;30;4
+6458a54d19cb41e8751ee3ff;https://github.com/itsybits-xyz;itsybits-xyz;False;3;3
+6458a55019cb41e8751ee403;https://github.com/procurement-and-acquisitions-department;The Gaming Table;False;5;1
+6458a55019cb41e8751ee405;https://github.com/jquery;jQuery;True;54;66
+6458a55019cb41e8751ee406;https://github.com/ot-crew;ot-crew;False;5;30
+6458a55019cb41e8751ee40a;https://github.com/replit-discord;Replit Discord;False;8;10
+6458a55019cb41e8751ee40d;https://github.com/ThoughtWorksStudios;ThoughtWorks Studios;False;42;5
+6458a55019cb41e8751ee40e;https://github.com/goci;goci;False;31;2
+6458a55119cb41e8751ee412;https://github.com/nu-childlab;Northwestern Child Language Development Lab;False;22;2
+6458a55319cb41e8751ee415;https://github.com/nu-childlab;Northwestern Child Language Development Lab;False;22;2
+6458a55419cb41e8751ee41a;https://github.com/18F;18F;False;1195;147
+6458a55419cb41e8751ee41d;https://github.com/ifi-dagen;dagen@ifi;False;4;3
+6458a55419cb41e8751ee41e;https://github.com/Informativ;Informativ;False;3;1
+6458a55419cb41e8751ee420;https://github.com/bottlesdevs;Bottles;True;32;11
+6458a55719cb41e8751ee428;https://github.com/redhat-developer;Red Hat Developer;False;211;54
+6458a55719cb41e8751ee429;https://github.com/prometheus-community;Prometheus Monitoring Community;False;32;38
+6458a55719cb41e8751ee42a;https://github.com/bwNetFlow;bwNetFlow;False;21;5
+6458a55719cb41e8751ee42d;https://github.com/hackclub;Hack Club;True;373;649
+6458a55b19cb41e8751ee430;https://github.com/hackclub;Hack Club;True;373;649
+6458a55b19cb41e8751ee432;https://github.com/avito-tech;avito.tech;False;104;6
+6458a55b19cb41e8751ee433;https://github.com/qa-dev;qa-dev;False;10;4
+6458a55b19cb41e8751ee434;https://github.com/phpgeeks-club;PHP Geeks;False;5;4
+6458a55b19cb41e8751ee435;https://github.com/yggheim;Yggheim;False;4;1
+6458a55b19cb41e8751ee43b;https://github.com/Khan;Khan Academy;False;458;42
+6458a55b19cb41e8751ee43c;https://github.com/GameUp;GameUp;False;2;1
+6458a55b19cb41e8751ee43e;https://github.com/clari;Clari;True;23;1
+6458a55b19cb41e8751ee43f;https://github.com/CodeReviewCommunity;Code Review Community;False;7;6
+6458a55b19cb41e8751ee440;https://github.com/LevelUpYourCode;Level Up Your Code;False;0;1
+6458a56119cb41e8751ee44d;https://github.com/bitwarden;Bitwarden;True;24;34
+6458a56219cb41e8751ee450;https://github.com/Nixtla;Nixtla;False;20;2
+6458a56219cb41e8751ee455;https://github.com/silverorange;silverorange;False;146;7
+6458a56219cb41e8751ee459;https://github.com/chillerlan;chillerlan;False;26;1
+6458a56519cb41e8751ee45d;https://github.com/mutantstandard;Mutant Standard;False;4;2
+6458a56619cb41e8751ee460;https://github.com/tomeshnet;Toronto Mesh;False;27;11
+6458a56619cb41e8751ee461;https://github.com/edgi-govdata-archiving;Environmental Data and Governance Initiative;False;93;33
+6458a56619cb41e8751ee466;https://github.com/sourcecred;SourceCred;False;32;13
+6458a56619cb41e8751ee467;https://github.com/Actually-Autistic-Developers;Actually Autistic Developers;False;9;1
+6458a56619cb41e8751ee468;https://github.com/Twenty20-Trivia;Twenty20-Trivia;False;1;1
+6458a56619cb41e8751ee469;https://github.com/space-cadetz;space-cadetz;False;2;1
+6458a56619cb41e8751ee46a;https://github.com/Underground-Railroad;Underground-Railroad;False;12;1
+6458a56619cb41e8751ee46b;https://github.com/Offset-Movement;offset movement;False;19;2
+6458a56919cb41e8751ee470;https://github.com/squaresLab;squaresLab;False;75;4
+6458a56919cb41e8751ee472;https://github.com/EFForg;Electronic Frontier Foundation;True;102;8
+6458a56919cb41e8751ee476;https://github.com/UniversityRadioYork;University Radio York Computing Team;True;70;13
+6458a56919cb41e8751ee477;https://github.com/ystv;York Student Television;True;53;16
+6458a56919cb41e8751ee478;https://github.com/VolunteerLiveTeam;Volunteer Live Team;True;18;3
+6458a56919cb41e8751ee47b;https://github.com/OSU-AIGSA;AIGSA;False;1;1
+6458a56c19cb41e8751ee485;https://github.com/flashrom;flashrom;False;11;4
+6458a57019cb41e8751ee488;https://github.com/squareup;Square, Inc;True;0;875
+6458a57019cb41e8751ee48c;https://github.com/sqircle;sqircle;False;11;1
+6458a57019cb41e8751ee48d;https://github.com/ryggrad;ryggrad;False;5;1
+6458a57019cb41e8751ee48e;https://github.com/eldr-rb;eldr-rb;False;7;1
+6458a57019cb41e8751ee48f;https://github.com/BuildYourOwnSinatra;BuildYourOwnSinatra;False;6;1
+6458a57019cb41e8751ee490;https://github.com/ThinkingInReact;ThinkingInReact;False;3;1
+6458a57019cb41e8751ee491;https://github.com/Hactar-js;Hactar-js;False;3;1
+6458a57019cb41e8751ee497;https://github.com/envrioomate;envrioomate;False;4;1
+6458a57019cb41e8751ee498;https://github.com/Klimaschutz-for-all;Klimaschutz-for-all;False;3;1
+6458a57019cb41e8751ee499;https://github.com/climactivity;Climactivity ;False;16;1
+6458a57019cb41e8751ee49b;https://github.com/DiscoverMeteor;DiscoverMeteor;False;55;34
+6458a57019cb41e8751ee49c;https://github.com/snowkit;snõwkit;False;31;5
+6458a57019cb41e8751ee49d;https://github.com/lagamerie;La Gamerie;False;1;1
+6458a57019cb41e8751ee49e;https://github.com/ceramic-engine;Ceramic;False;51;1
+6458a57419cb41e8751ee4a2;https://github.com/envrioomate;envrioomate;False;4;1
+6458a57419cb41e8751ee4a3;https://github.com/Klimaschutz-for-all;Klimaschutz-for-all;False;3;1
+6458a57419cb41e8751ee4a4;https://github.com/climactivity;Climactivity ;False;16;1
+6458a57419cb41e8751ee4a6;https://github.com/squiggle-lang;Squiggle;False;5;1
+6458a57419cb41e8751ee4a8;https://github.com/fragcastle;Frag Castle Games;False;37;1
+6458a57519cb41e8751ee4ab;https://github.com/FTC-Hindsight;FTC-Hindsight;False;2;1
+6458a57519cb41e8751ee4ac;https://github.com/6962;6962;False;5;1
+6458a57519cb41e8751ee4ae;https://github.com/nipy;NIPY developers;False;34;27
+6458a57519cb41e8751ee4af;https://github.com/FCP-INDI;FCP-INDI;False;37;2
+6458a57519cb41e8751ee4b0;https://github.com/BadMuthaBooboisie;Bad Mutha Booboisie;False;2;1
+6458a57519cb41e8751ee4b1;https://github.com/ChildMindInstitute;Child Mind Institute;False;107;5
+6458a57519cb41e8751ee4b2;https://github.com/nmind;this Neuroimaging Method Is Not Duplicated;False;6;2
+6458a57819cb41e8751ee4b7;https://github.com/WordPress;WordPress;False;131;148
+6458a57819cb41e8751ee4ba;https://github.com/mcpt;Mackenzie Computer Programming Team;True;23;8
+6458a57819cb41e8751ee4bb;https://github.com/wlmac;Project Metropolis;False;13;7
+6458a57819cb41e8751ee4bc;https://github.com/RatLaunchers;RatLaunchers;False;4;1
+6458a57819cb41e8751ee4bd;https://github.com/cve2k9;CVE2k9;False;2;4
+6458a57819cb41e8751ee4c1;https://github.com/SourceComb;Source Comb;False;3;1
+6458a57819cb41e8751ee4c3;https://github.com/nonbinarylondon;Non-binary London;False;1;1
+6458a57819cb41e8751ee4c4;https://github.com/Nonprofit-Exchange-Hub;Nonprofit-Exchange-Hub;False;2;2
+6458a57c19cb41e8751ee4ca;https://github.com/lion-byte;lion-byte;False;6;1
+6458a57c19cb41e8751ee4cc;https://github.com/magefree;MAGE;False;7;12
+6458a57c19cb41e8751ee4cd;https://github.com/dasgefolge;Das Gefolge;False;14;3
+6458a57c19cb41e8751ee4ce;https://github.com/wurstmineberg;Wurstmineberg;False;39;7
+6458a57c19cb41e8751ee4cf;https://github.com/PistonDevelopers;PistonDevelopers;False;116;36
+6458a57c19cb41e8751ee4d0;https://github.com/jq-shell;jqsh;False;2;1
+6458a57c19cb41e8751ee4d1;https://github.com/cs-ech;Custom Standard and ECH;False;6;1
+6458a57c19cb41e8751ee4d2;https://github.com/midoshouse;Mido's House;False;3;1
+6458a57d19cb41e8751ee4d4;https://github.com/ParadiseSS13;Paradise Station;True;8;7
+6458a57d19cb41e8751ee4da;https://github.com/omnirom;omnirom;True;686;30
+6458a57d19cb41e8751ee4db;https://github.com/GengKapak;GengKapak;False;6;8
+6458a57d19cb41e8751ee4dc;https://github.com/GK-Devs;GK-Devs;False;4;2
+6458a57d19cb41e8751ee4dd;https://github.com/GengKapak-Project;GengKapak-Project;True;34;3
+6458a58019cb41e8751ee4df;https://github.com/rust-lang-nursery;rust-lang-nursery;False;24;60
+6458a58019cb41e8751ee4e1;https://github.com/Earthbreak-Games;Earthbreak Games;False;2;4
+6458a58019cb41e8751ee4e3;https://github.com/marcottelab;The Marcotte Lab;False;54;6
+6458a58019cb41e8751ee4e4;https://github.com/SciRuby;SciRuby;False;35;20
+6458a58019cb41e8751ee4e5;https://github.com/OpenResearchInstitute;Open Research Institute;False;43;3
+6458a58019cb41e8751ee4ea;https://github.com/iNDS-Team;iNDS Team;False;4;1
+6458a58619cb41e8751ee4f7;https://github.com/quinnlabs;Quinn Labs;False;0;2
+6458a58619cb41e8751ee4fc;https://github.com/dscuwaterloo;DSC UWaterloo;False;1;2
+6458a58a19cb41e8751ee500;https://github.com/hackforla;Hack for LA;False;124;1251
+6458a58a19cb41e8751ee503;https://github.com/uw-hai;UW Lab for Human-AI Interaction;False;18;4
+6458a59019cb41e8751ee514;https://github.com/cleancode2020;cleancode2020;False;1;1
+6458a59019cb41e8751ee519;https://github.com/SRCStats;SRCStats;False;4;2
+6458a59319cb41e8751ee523;https://github.com/NixOS;Nix/Nixpkgs/NixOS;True;63;745
+6458a59319cb41e8751ee524;https://github.com/obfuskd;obfuskd;False;0;1
+6458a59319cb41e8751ee525;https://github.com/open-uri-redirections;open-uri-redirections;False;1;1
+6458a59319cb41e8751ee529;https://github.com/mademast;mademast;False;2;2
+6458a59619cb41e8751ee52b;https://github.com/mademast;mademast;False;2;2
+6458a59619cb41e8751ee52d;https://github.com/teamisotope;TeamIsotope;True;1;1
+6458a59619cb41e8751ee52e;https://github.com/main-dot-rs;main.rs;False;0;1
+6458a59619cb41e8751ee52f;https://github.com/calypso-lang;The Calypso Programming Language;False;8;1
+6458a59619cb41e8751ee532;https://github.com/WeCodeSign;WeCodeSign;False;3;1
+6458a59619cb41e8751ee533;https://github.com/frontfest;FrontFest;False;13;4
+6458a59719cb41e8751ee535;https://github.com/vs-uulm;Institute of Distributed Systems, Ulm University;False;53;8
+6458a59a19cb41e8751ee53e;https://github.com/team-obscurity;Team Obscurity;False;1;1
+6458a59a19cb41e8751ee53f;https://github.com/FTBTeam;Feed The Beast;False;60;8
+6458a59a19cb41e8751ee540;https://github.com/modbox-packs;Modbox Packs;False;0;1
+6458a59a19cb41e8751ee541;https://github.com/sgp-modpacks;SGP Modpacks;False;1;1
+6458a59a19cb41e8751ee545;https://github.com/mozilla;Mozilla;False;2378;102
+6458a59d19cb41e8751ee54f;https://github.com/AdobeDocs;AdobeDocs;False;1315;8
+6458a59d19cb41e8751ee550;https://github.com/AdobeXD;Adobe XD;False;20;3
+6458a59d19cb41e8751ee551;https://github.com/server-state;Server State;True;24;2
+6458a59d19cb41e8751ee552;https://github.com/fliegwerk;fliegwerk;False;23;2
+6458a59d19cb41e8751ee553;https://github.com/TelestionTeam;Telestion Team;False;3;4
+6458a59d19cb41e8751ee554;https://github.com/wuespace;WüSpace e. V.;True;25;16
+6458a5a019cb41e8751ee558;https://github.com/brightmediums;Bright Mediums;False;3;1
+6458a5a019cb41e8751ee55c;https://github.com/infernalstudios;Infernal Studios;True;25;2
+6458a5a019cb41e8751ee561;https://github.com/The-JavaScript-Club;The JavaScript Club;False;1;1
+6458a5a319cb41e8751ee564;https://github.com/radiant;Radiant CMS dev team;False;50;37
+6458a5a319cb41e8751ee565;https://github.com/ayellowraven;A Yellow Raven;False;8;1
+6458a5a319cb41e8751ee566;https://github.com/18F;18F;False;1195;147
+6458a5a319cb41e8751ee568;https://github.com/camelids;camelids;False;3;4
+6458a5a319cb41e8751ee569;https://github.com/sodiumoxide;sodiumoxide;False;1;6
+6458a5a319cb41e8751ee56f;https://github.com/gher-uliege;GHER;False;42;3
+6458a5a719cb41e8751ee57b;https://github.com/wilcox-tech;Wilcox Technologies LLC;False;12;2
+6458a5a719cb41e8751ee57c;https://github.com/foxkit-us;foxkit.us collaborative project;False;2;2
+6458a5a719cb41e8751ee57d;https://github.com/AdelieLinux;Adélie Linux;True;0;1
+6458a5ad19cb41e8751ee58a;https://github.com/spacemeshos;Spacemesh;True;103;7
+6458a5ae19cb41e8751ee58f;https://github.com/openSUSE;openSUSE;False;587;176
+6458a5ae19cb41e8751ee590;https://github.com/SUSE;SUSE;False;385;130
+6458a5ae19cb41e8751ee591;https://github.com/pyve;Python Venezuela;False;30;18
+6458a5ae19cb41e8751ee592;https://github.com/os-autoinst;openQA Development;False;23;21
+6458a5ae19cb41e8751ee593;https://github.com/vzla;api.vzla.io;False;4;2
+6458a5b119cb41e8751ee598;https://github.com/openSUSE;openSUSE;False;587;176
+6458a5b119cb41e8751ee599;https://github.com/SUSE;SUSE;False;385;130
+6458a5b119cb41e8751ee59a;https://github.com/pyve;Python Venezuela;False;30;18
+6458a5b119cb41e8751ee59b;https://github.com/os-autoinst;openQA Development;False;23;21
+6458a5b119cb41e8751ee59c;https://github.com/vzla;api.vzla.io;False;4;2
+6458a5b119cb41e8751ee5a0;https://github.com/GoodbyteCo;Goodbyte;True;15;2
+6458a5b719cb41e8751ee5b1;https://github.com/fundsofhope;FundsofHope;False;11;1
+6458a5b819cb41e8751ee5b6;https://github.com/OHSGithubers;OHSGithubers;False;4;2
+6458a5ba19cb41e8751ee5be;https://github.com/Khan;Khan Academy;False;458;42
+6458a5bd19cb41e8751ee5c2;https://github.com/MeenyDiscord;Meeny;False;1;1
+6458a5bd19cb41e8751ee5c5;https://github.com/googlers;googlers;True;2;2363
+6458a5be19cb41e8751ee5c9;https://github.com/webdev-camp;Web Dev Camp;False;5;3
+6458a5be19cb41e8751ee5ca;https://github.com/hackathing;Hackathing;False;9;2
+6458a5be19cb41e8751ee5cb;https://github.com/temple-of-code;Temple of Code;False;1;2
+6458a5be19cb41e8751ee5cc;https://github.com/team-balloonicorn;team-balloonicorn;False;4;2
+6458a5be19cb41e8751ee5cd;https://github.com/kalda-co;Kalda;False;1;1
+6458a5be19cb41e8751ee5d1;https://github.com/NucleoidMC;NucleoidMC;False;128;17
+6458a5be19cb41e8751ee5d2;https://github.com/QuiltServerTools;QuiltServerTools;False;13;2
+6458a5c119cb41e8751ee5d6;https://github.com/dataplat;Data Platform Community;False;38;7
+6458a5c219cb41e8751ee5de;https://github.com/google;Google;True;2499;621
+6458a5c619cb41e8751ee5ea;https://github.com/open-austin;Open Austin;False;105;21
+6458a5c919cb41e8751ee5f8;https://github.com/weecology;Weecology;False;167;18
+6458a5cc19cb41e8751ee602;https://github.com/sys-bio;UW Sauro Lab;False;85;5
+6458a5d219cb41e8751ee615;https://github.com/toolbox-team;toolbox-team;False;3;3
+6458a5d219cb41e8751ee616;https://github.com/BluCoders;BluCoders;False;6;9
+6458a5d219cb41e8751ee617;https://github.com/EliteDangerous-Subreddit;/r/EliteDangerous Subreddit;False;7;1
+6458a5d219cb41e8751ee618;https://github.com/oamg;OS and Application Modernization Group;False;20;22
+6458a5d219cb41e8751ee619;https://github.com/ValkyrjaProject;Valkyrja project;True;8;5
+6458a5dc19cb41e8751ee63e;https://github.com/Vetpetmon-Labs;Vetpetmon Labs;False;5;1
+6458a5e319cb41e8751ee64e;https://github.com/CAPS-Robotics;FRC Team 2410 - Blue Valley CAPS Metal Mustangs;False;38;3
+6458a5e319cb41e8751ee650;https://github.com/Jemjie;Jemjie;False;1;2
+6458a9217fce3a7ff27ba436;https://github.com/nsccs;North Seattle College Computer Science Club;False;9;2
+6458a9247fce3a7ff27ba438;https://github.com/nsccs;North Seattle College Computer Science Club;False;9;2
+6458a93c7fce3a7ff27ba43a;https://github.com/techmatters;Tech Matters;True;25;4
+6458a93f7fce3a7ff27ba43c;https://github.com/techmatters;Tech Matters;True;25;4
+6458a9517fce3a7ff27ba440;https://github.com/WaletSec;WaletSec;False;2;2
+6458a9517fce3a7ff27ba441;https://github.com/ksidelta;ksidelta;False;4;1
+6458a9517fce3a7ff27ba442;https://github.com/pluget;pluget - tools for managing your Minecraft server;False;16;1
+6458a9517fce3a7ff27ba443;https://github.com/mpmgg;Minecraft Package Manager;False;1;1
+6458a97a7fce3a7ff27ba448;https://github.com/saspy-bffs;saspy-bffs;False;24;2
+6458a97e7fce3a7ff27ba44a;https://github.com/saspy-bffs;saspy-bffs;False;24;2
+6458a9b47fce3a7ff27ba44d;https://github.com/IrisShaders;Iris Shaders;False;15;8
+6458a9b47fce3a7ff27ba44e;https://github.com/QuiltMC;QuiltMC;True;61;27
+6458a9b47fce3a7ff27ba44f;https://github.com/HyacinthBots;HyacinthBots;False;9;3
+6458a9b67fce3a7ff27ba451;https://github.com/IrisShaders;Iris Shaders;False;15;8
+6458a9b67fce3a7ff27ba452;https://github.com/QuiltMC;QuiltMC;True;61;27
+6458a9b67fce3a7ff27ba453;https://github.com/HyacinthBots;HyacinthBots;False;9;3
+6458a9d07fce3a7ff27ba456;https://github.com/Blue-Eagle-Robotics;Blue Eagle Robotics;False;2;1
+6458a9d37fce3a7ff27ba45e;https://github.com/frc937;FRC team 937;False;10;3
+6458a9db7fce3a7ff27ba47d;https://github.com/OviattLibrary;OviattLibrary;False;4;1
+6458a9db7fce3a7ff27ba47e;https://github.com/SamThackerStudios;SamThackerStudios;False;0;1
+6458a9db7fce3a7ff27ba47f;https://github.com/anivote;anivote;False;0;1
+6458a9de7fce3a7ff27ba487;https://github.com/rah-systems;RAH Systems;True;0;1
+6458a9e07fce3a7ff27ba48f;https://github.com/Scratch-Client-4;Scratch Client 4;False;6;7
+6458a9ea7fce3a7ff27ba4b7;https://github.com/aziontech;Azion Technologies;False;19;8
+6458a9ea7fce3a7ff27ba4b8;https://github.com/PUCRS-ES;PUCRS-ES;False;12;1
+6458a9ea7fce3a7ff27ba4b9;https://github.com/scanapi;ScanAPI;False;10;17
+6458a9f17fce3a7ff27ba4d2;https://github.com/HlaskaSound;HlaskaSound;False;0;2
+6458a9f97fce3a7ff27ba4ec;https://github.com/SilverStateEsports;Silver State Esports;False;2;2
+6458a9f97fce3a7ff27ba4ed;https://github.com/Stardust-Servers;Stardust;False;2;1
+6458a9f97fce3a7ff27ba4f3;https://github.com/openPronouns;openPronouns;True;4;1
+6458aa007fce3a7ff27ba50f;https://github.com/SerenityLaboratories;Serenity Laboratories;False;4;1
+6458aa047fce3a7ff27ba51e;https://github.com/openPronouns;openPronouns;True;4;1
+6458aa097fce3a7ff27ba52d;https://github.com/writr-project;Writr;False;0;1
+6458aa097fce3a7ff27ba52e;https://github.com/cloudfox-project;CloudFox;False;0;1
+6458aa197fce3a7ff27ba570;https://github.com/Message-Photon-Studios;Message Photon Studios;False;1;6
+6458aa1b7fce3a7ff27ba578;https://github.com/hexside;Hexside;True;1;1
+6458aa1d7fce3a7ff27ba57e;https://github.com/spaceak-dev;Spaceak;False;0;1
+6458aa1d7fce3a7ff27ba57f;https://github.com/HeySpecial;HeySpecial;False;0;1
+6458aa257fce3a7ff27ba591;https://github.com/pythonindia;Python India;False;47;35
+6458aa257fce3a7ff27ba592;https://github.com/balena-io;balena;False;86;5
+6458aa257fce3a7ff27ba593;https://github.com/pydelhi;PyDelhi;False;23;13
+6458aa257fce3a7ff27ba594;https://github.com/balena-io-library;balena-io-library;False;18;1
+6458aa257fce3a7ff27ba595;https://github.com/balena-labs-projects;Balena Labs Projects;False;39;2
+6458aa257fce3a7ff27ba596;https://github.com/balena-os;balenaOS;False;135;3
+6458aa257fce3a7ff27ba597;https://github.com/balena-io-modules;balena-io-modules;False;288;2
+6458aa257fce3a7ff27ba598;https://github.com/balena-io-experimental;Balena Experimental;False;784;2
+6458aa257fce3a7ff27ba599;https://github.com/asetalias;ALiAS;False;13;21
+6458aa257fce3a7ff27ba59a;https://github.com/PyLadiesDelhi;PyLadies Delhi;False;2;3
+6458aa257fce3a7ff27ba59b;https://github.com/product-os;productOS;False;89;3
+6458aa257fce3a7ff27ba59c;https://github.com/balena-io-examples;Balena examples;False;77;2
+6458aa257fce3a7ff27ba59d;https://github.com/balenablocks;balenaBlocks;False;4;1
+6458aa2a7fce3a7ff27ba59f;https://github.com/the-honey-badgers;The Honey Badgers;False;2;4
+6458aa2e7fce3a7ff27ba5a3;https://github.com/WaletSec;WaletSec;False;2;2
+6458aa2e7fce3a7ff27ba5a4;https://github.com/ksidelta;ksidelta;False;4;1
+6458aa2e7fce3a7ff27ba5a5;https://github.com/pluget;pluget - tools for managing your Minecraft server;False;16;1
+6458aa2e7fce3a7ff27ba5a6;https://github.com/mpmgg;Minecraft Package Manager;False;1;1
+6458aa327fce3a7ff27ba5a9;https://github.com/DevOpsKC;DevOps KC;False;8;2
+6458aa367fce3a7ff27ba5b0;https://github.com/webtrainingmx;webtraining;False;66;1
+6458aa407fce3a7ff27ba5c0;https://github.com/Blue-Eagle-Robotics;Blue Eagle Robotics;False;2;1
+6458aa447fce3a7ff27ba5d4;https://github.com/CHIMEFRB;CHIME/FRB Collaboration;False;14;3
+6458aa457fce3a7ff27ba5d8;https://github.com/peregrine-lang;Peregrine;False;2;4
+6458aa4a7fce3a7ff27ba5e6;https://github.com/PyLightMeetup;PyLight Meetup;False;16;7
+6458aa4a7fce3a7ff27ba5ee;https://github.com/meetsoci;SOCi;False;4;1
+64597c535328023c84144a21;https://github.com/sledgang;sledgang;False;11;7
+64597c535328023c84144a22;https://github.com/tmpim;tmpim;False;41;19
+64597c535328023c84144a24;https://github.com/dracula;Dracula Theme;True;370;87
+64597c535328023c84144a25;https://github.com/cutelab-fairies;Cutelab;False;5;2
+64597c535328023c84144a26;https://github.com/melodic-games;melodic-games;False;2;2
+64597c535328023c84144a27;https://github.com/tivolispace;Tivoli Space;False;1;2
+64597c535328023c84144a28;https://github.com/tivolicloud;Archive of Tivoli Cloud VR;False;16;2
+64597c5c5328023c84144a2f;https://github.com/command-line-interface-pages;Command Line Interface Pages;False;9;3
+64597c695328023c84144a37;https://github.com/marionettejs;Marionette.js;False;25;22
+64597c6e5328023c84144a3a;https://github.com/river-city-housing-collective;River City Housing Collective;False;2;1
+64597c715328023c84144a3c;https://github.com/sparklingpandas;sparklingpandas;False;2;1
+64597c715328023c84144a3d;https://github.com/high-performance-spark;high-performance-spark;False;2;2
+64597c715328023c84144a3e;https://github.com/scalingpythonml;scalingpythonml;False;5;2
+64597c715328023c84144a3f;https://github.com/PigsCanFlyLabs;PigsCanFlyLabs;False;14;1
+64597c835328023c84144a48;https://github.com/go-snart;Snart;False;3;1
+64597c895328023c84144a51;https://github.com/BlobEmoji;Blob Emoji;True;12;10
+64597c895328023c84144a52;https://github.com/QuiltMC;QuiltMC;True;61;27
+64597c905328023c84144a54;https://github.com/revoltchat;Revolt;True;34;8
+64597c905328023c84144a55;https://github.com/mirukucafe;miruku.cafe;True;8;4
+64597c905328023c84144a56;https://github.com/jan-software-foundation;Jan Software Foundation;True;8;6
+64597c905328023c84144a57;https://github.com/lightspeed-tv;lightspeed.tv;True;5;6
+64597c9e5328023c84144a5d;https://github.com/RoleSave;RoleSave;False;1;1
+64597c9e5328023c84144a60;https://github.com/BioGenies;BioGenies;False;22;4
+64597ca05328023c84144a62;https://github.com/BioGenies;BioGenies;False;22;4
+64597cd15328023c84144a80;https://github.com/IIoW;IIoW;False;1;3
+64597dbb6d40f58bf16a430b;https://github.com/iSystems;iSystems e.U.;False;2;1
+64597dbb6d40f58bf16a430c;https://github.com/openestim;openestim;False;1;1
+64597dbb6d40f58bf16a430d;https://github.com/c3nav;c3nav;False;8;3
